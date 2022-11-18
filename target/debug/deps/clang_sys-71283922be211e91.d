@@ -1,0 +1,13 @@
+/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/deps/clang_sys-71283922be211e91.rmeta: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/support.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/link.rs /Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/common.rs /Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/dynamic.rs
+
+/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/deps/libclang_sys-71283922be211e91.rlib: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/support.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/link.rs /Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/common.rs /Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/dynamic.rs
+
+/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/deps/clang_sys-71283922be211e91.d: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/support.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/link.rs /Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/common.rs /Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/dynamic.rs
+
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/lib.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/support.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/clang-sys-1.4.0/src/link.rs:
+/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/common.rs:
+/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/clang-sys-7db656ed555bf16e/out

@@ -1,0 +1,9 @@
+/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/deps/futures_lite-e244690898eb9153.rmeta: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/future.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/prelude.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/stream.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/io.rs
+
+/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/deps/futures_lite-e244690898eb9153.d: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/future.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/prelude.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/stream.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/io.rs
+
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/lib.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/future.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/prelude.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/stream.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/io.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/typenum-0b6c164e31b4cbd3/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/mcf4r/Dev/rust/realtime_chat_app/tower_defense_intro/target/debug/build/typenum-0b6c164e31b4cbd3/out/op.rs
