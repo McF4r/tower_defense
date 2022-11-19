@@ -1,3 +1,8 @@
+// NOTE: ECS
+// System - The actual code
+// Entities - The "objects" (ID)
+// Components - The data
+
 use std::f32::consts::PI;
 
 use bevy::prelude::*;
@@ -6,6 +11,22 @@ use bevy_inspector_egui::WorldInspectorPlugin;
 // Window Size
 pub const WIDTH: f32 = 1280.0;
 pub const HEIGHT: f32 = 720.0;
+
+#[derive(Reflect, Component, Default)]
+#[reflect(Component)]
+pub struct Tower {
+    shooting_timer: Timer,
+}
+
+#[derive(Reflect, Component, Default)]
+#[reflect(Component)]
+pub struct Lifetime {
+    timer: Timer,
+}
+
+pub struct GameAssets {
+    bullet_scene: Handle<Scene>,
+}
 
 fn main() {
     App::new()
@@ -37,10 +58,13 @@ fn main() {
         .run();
 }
 
-// NOTE: ECS
-// System - The actual code
-// Entities - The "objects" (ID)
-// Components - The data
+// NOTE: AssetServer allow you to load the assets asynchronously
+fn asset_loading(mut commands: Commands, assets: Res<AssetServer>) {
+    commands.insert_resource(GameAssets {
+        bullet_scene: assets.load("Bullet.glb#Scene0"),
+    });
+}
+
 fn spawn_camera(mut commands: Commands) {
     commands.spawn_bundle(Camera3dBundle {
         transform: Transform::from_xyz(-2.0, 2.5, 5.0).looking_at(Vec3::ZERO, Vec3::Y),
@@ -92,22 +116,6 @@ fn spawn_basic_scene(
         .insert(Name::new("Light"));
 }
 
-#[derive(Reflect, Component, Default)]
-#[reflect(Component)]
-pub struct Tower {
-    shooting_timer: Timer,
-}
-
-#[derive(Reflect, Component, Default)]
-#[reflect(Component)]
-pub struct Lifetime {
-    timer: Timer,
-}
-
-pub struct GameAssets {
-    bullet_scene: Handle<Scene>,
-}
-
 fn tower_shooting(
     mut commands: Commands,
     time: Res<Time>,
@@ -152,10 +160,4 @@ fn bullet_despawn(
     }
 }
 
-// NOTE: AssetServer allow you to load the assets asynchronously
-fn asset_loading(mut commands: Commands, assets: Res<AssetServer>) {
-    commands.insert_resource(GameAssets {
-        bullet_scene: assets.load("Bullet.glb#Scene0"),
-    });
-}
 
