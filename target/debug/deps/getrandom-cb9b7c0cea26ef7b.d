@@ -1,0 +1,10 @@
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/getrandom-cb9b7c0cea26ef7b.rmeta: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/error.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/util.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/util_libc.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/use_file.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/macos.rs
+
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/getrandom-cb9b7c0cea26ef7b.d: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/error.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/util.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/util_libc.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/use_file.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/macos.rs
+
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/lib.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/error.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/util.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/util_libc.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/use_file.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/getrandom-0.2.8/src/macos.rs:

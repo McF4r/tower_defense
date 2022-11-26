@@ -1,0 +1,5 @@
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/termcolor-82bdd7d0b608608b.rmeta: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/termcolor-1.1.3/src/lib.rs
+
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/termcolor-82bdd7d0b608608b.d: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/termcolor-1.1.3/src/lib.rs
+
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/termcolor-1.1.3/src/lib.rs:

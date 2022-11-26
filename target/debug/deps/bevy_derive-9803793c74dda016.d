@@ -1,0 +1,9 @@
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/libbevy_derive-9803793c74dda016.dylib: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/app_plugin.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/bevy_main.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/derefs.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/enum_variant_meta.rs
+
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/bevy_derive-9803793c74dda016.d: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/app_plugin.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/bevy_main.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/derefs.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/enum_variant_meta.rs
+
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/lib.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/app_plugin.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/bevy_main.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/derefs.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/bevy_derive-0.8.1/src/enum_variant_meta.rs:

@@ -1,0 +1,10 @@
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/hexasphere-337e133ec354c459.rmeta: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/interpolation.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/shapes.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/slice.rs
+
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/libhexasphere-337e133ec354c459.rlib: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/interpolation.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/shapes.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/slice.rs
+
+/Users/mcf4r/Dev/rust/tower_defense_intro/target/debug/deps/hexasphere-337e133ec354c459.d: /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/lib.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/interpolation.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/shapes.rs /Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/slice.rs
+
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/lib.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/interpolation.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/shapes.rs:
+/Users/mcf4r/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/hexasphere-7.2.1/src/slice.rs:
